@@ -7,12 +7,11 @@ Simple Terminal Emulator based on QML
 
 ### Installation
 
-arius-terminal requires [qmltermwidget](hhttps://github.com/Swordfish90/qmltermwidget/) to run.
-
-Install the dependencies and compile it.
+arius-terminal requires qmltermwidget to run.
 
 ```sh
 $ mkdir build
 $ cd build
 $ qmake ../src
 $ make
+```
