@@ -1,6 +1,6 @@
 # Arius Terminal
 
-Simple Terminal Emulator based on QML
+Simple QML-based Terminal Emulator
 
   - Lightweight
   - Mobile UI friendly
